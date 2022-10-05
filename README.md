@@ -11,7 +11,7 @@
 ![Github issues](https://img.shields.io/github/issues/marcossilvestrini/learning-windows-server-2019?label=issues&style=for-the-badge)
 ![Github open pull requests](https://img.shields.io/github/issues-pr/marcossilvestrini/learning-windows-server-2019?style=for-the-badge)
 
-> Status of Project: :heavy_check_mark: :warning: Working progress
+> Status of Project: :warning: Working progress
 
 ### Topics
 
@@ -19,7 +19,7 @@
 
 ## About Projetc
 
-Repository for learnning about Windows Server 2019
+Repository for learning about Windows Server 2019
 
 ## Licence
 
